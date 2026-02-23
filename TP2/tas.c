@@ -3,6 +3,8 @@
 #include <string.h>
 #include "stdio.h"
 
+#include "tas.h"
+
 #define SIZE 9
 
 void print_heap(int* heap)
